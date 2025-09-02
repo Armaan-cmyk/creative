@@ -1,1 +1,33 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Test Page</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: red;
+      margin-top: 50px;
+      font-size: 40px;
+    }
+    p {
+      font-size: 22px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌹 Welcome My Friend 🌹</h1>
+  <p>This is just a test page to check if my website works!</p>
+  <p>— From Me ❤️</p>
+</body>
+</html>
